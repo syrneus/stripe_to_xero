@@ -26,6 +26,7 @@ Use these environment variables as configuration
 
 - Run `auto_import.sh` to automatically import your Stripe data into Xero.
 - Or, just run the `stripe_to_xero.rb` script to generate `xero.csv` which you can upload manually.
+- Or, just run `transfers.rb` to generate `transactions-all.csv` which helps to find transactions w/ refunds out of current period
 - Reconcile away.
 
 # Notes
